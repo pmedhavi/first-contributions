@@ -1227,4 +1227,4 @@ Ulises Quiñonez
 [Jaiman Munshi](https://github.com/jaimanm)
 [Kena Dave](https://github.com/kenadave)
 [Sujal-Burad](https://github.com/Sujal-Burad)
-- [pmedhaavi](https://github.com/pmedhavi
+- [Prakhar Medhavi](https://github.com/pmedhavi
